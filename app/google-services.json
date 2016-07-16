@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "241595921557",
+    "project_id": "loveslidedemo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241595921557:android:0cf185b82a103097",
+        "android_client_info": {
+          "package_name": "rukeon.com.chatting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXLVlVm_m93RTeuo74AI0YHY-NiPhyB9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
